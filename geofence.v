@@ -9,7 +9,12 @@ output is_inside;
 //reg is_inside;
 
 reg[4:0] hh;
+reg[3:1] qwe;
 
+always @(posedge clk )
+begin
+    qwe <= 0;
+end
 
 
 endmodule
