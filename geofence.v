@@ -7,8 +7,7 @@ output valid;
 output is_inside;
 //reg valid;
 //reg is_inside;
-reg [3:0] hello_world ;
-reg[4:0] ll;
+
 reg[4:0] hh;
 
 
